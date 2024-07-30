@@ -10,4 +10,21 @@ File Structure
 ```
 
 
+To Run Build Debug  (Test)
+
+
+```shell
+rm -rf build/*
+```
+
+```shell
+cd build
+cmake ..
+make
+```
+```shell
+./debugger
+```
+
+
 
